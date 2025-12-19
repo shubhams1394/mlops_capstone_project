@@ -1,0 +1,21 @@
+LOANS Section 3.2 
+RMS Manual of Examination Policies 3.2-75 Loans (8-16) 
+Federal Deposit Insurance Corporation 
+evaluate subprime activity. Recommended portfolio 
+segmentation and trend analyses are fully di scussed in the 
+subprime lending loan reference module of the 
+Examination Modules. 
+ 
+Analysis should take into consideration the effects of 
+portfolio growth and seasoning, which can mask true 
+performance by distorting delinquency and loss ratios.  
+Vintage, l agged delinquency, and lagged loss analysis 
+methods are sometimes used to account for growth, 
+seasoning, and changes in underwriting.  Analysis should 
+also take into account the effect of cure programs on 
+portfolio performance. Refer to the glossary of the  Credit 
+Card Specialty Bank Examination Guidelines for 
+definitions of vintage, roll rate, and migration analysis.  
+ 
+Servicing and Collections .  Defaults occur sooner and in 
+greater volume than in prime lending; thus a well -

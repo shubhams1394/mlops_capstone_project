@@ -1,0 +1,19 @@
+LOANS Section 3.2 
+Loans (8-16) 3.2-6 RMS Manual of Examination Policies 
+  Federal Deposit Insurance Corporation 
+based on current information and events, it is probable that 
+the creditor will be unable to collect all interest and 
+principal payments due according to the contractual terms 
+of the loan agreement. 
+ 
+For individual ly impaired loans, FAS 114 provides 
+guidance on the acceptable methods to measure 
+impairment.  Specifically, FAS 114 states that when a loan 
+is impaired, a creditor should measure impairment based 
+on the present value of expected future principal and 
+interest cash flows discounted at the loan’s effective 
+interest rate, except that as a practical expedient, a creditor 
+may measure impairment based on a loan’s observable 
+market price or the fair value of collateral, if the loan is 
+collateral dependent.  When d eveloping the estimate of 
+expected future cash flows for a loan, an institution should

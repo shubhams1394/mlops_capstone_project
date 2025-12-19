@@ -1,0 +1,46 @@
+{
+  "pdf_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\documents\\Student-Loan-Policy.pdf",
+  "pdf_stem": "Student-Loan-Policy",
+  "total_pages": 2,
+  "total_chunks": 7,
+  "pages": [
+    {
+      "page_number": 1,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0001\\chunk-0005.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0002\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0002\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0002\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\Student-Loan-Policy\\page-0002\\chunk-0002.metadata.json"
+        }
+      ]
+    }
+  ]
+}

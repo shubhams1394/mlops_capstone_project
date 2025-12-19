@@ -1,0 +1,19 @@
+In some cases, the collateral that secures an obligation 
+under one security agreement can be used to secure a new 
+loan, too. This c an be done by using a cross -
+collateralization clause in the security agreement.  
+ 
+Perfecting the Security Interest  
+ 
+Three terms basic to secured transactions are attachment, 
+security agreement and security interest.  Attachment 
+refers to that point when t he creditor's legal rights in the 
+debtor's property come into existence or "attach .”  This 
+does not mean the creditor necessarily takes physical 
+possession of the property, or does it mean acquisition of 
+ownership of the property.  Rather, it means that be fore 
+attachment, the borrower's property is free of any legal 
+encumbrance, but after attachment, the property is legally 
+bound by the creditor's security interest.  In order for the 
+creditor's security interest to attach, there must be a 
+security agreement  in which the debtor authenticates and

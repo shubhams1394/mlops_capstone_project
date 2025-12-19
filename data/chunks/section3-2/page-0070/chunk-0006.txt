@@ -1,0 +1,20 @@
+understands the bank’s objectives.  Bank management 
+should also adhere closely to vendor manual specifications 
+for system maintenance and management, particularly 
+those that provide guidance for periodicall y assessing 
+performance of the system. 
+ 
+Scoring models generally become less predictive as time 
+passes.  Certain characteristics about an applicant, such as 
+income, job stability, and age change over time, as do 
+overall demographics.  One -by-one, these changes will 
+result in significant shifts in the profile of the population.  
+Once a fundamental change in the profile occurs, the 
+model is less able to identify potentially good and bad 
+applicants.  As these changes continue, the model loses its 
+ability to ra nk order risk.  Thus, institutions must 
+periodically validate the system’s predictability and refine 
+scoring characteristics when necessary.  These efforts 
+should be documented. 
+ 
+Institutions initially used credit scoring for consumer

@@ -1,0 +1,17 @@
+Examination Report Treatment  - Examiners should 
+continue to classify troubled loans, including any troubled 
+collateral dependent loans, based on the definitions of 
+Loss, Doubtful, and Substandard.  When a loan is 
+collateral dependent, any portion of the loan balance 
+which exceeds the fair value of the collateral should be 
+promptly charged-off against the ALLL.  For other loans 
+that are impaired or have been restructured, the excess of 
+the book value of the loan over it s fair value (or fair value 
+less cost to sell, as appropriate) is recognized by creating a 
+valuation allowance which is included in the ALLL.   
+However, when available information confirms that loans 
+and leases (including any recorded accrued interest, net  
+deferred loan fees or costs, and unamortized premium or 
+discount) other than collateral dependent loans, or portions 
+thereof, are uncollectible, these amounts should be 
+promptly charged- off against the ALLL, regardless of

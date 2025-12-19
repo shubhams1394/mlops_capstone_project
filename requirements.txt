@@ -1,0 +1,11 @@
+langchain==0.2.14
+langchain-openai==0.1.23
+langchain-community==0.2.11
+faiss-cpu
+tiktoken
+pypdf
+fastapi
+pydantic
+openai
+python-dotenv
+uvicorn

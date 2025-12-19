@@ -1,0 +1,18 @@
+would cause an overdraft position is presented.  Transfers 
+normally are  made in stated increments, up to the 
+maximum line of credit approved by the bank, and the 
+customer is notified that the funds have been transferred.  
+In a cash reserve system, customers must request that the 
+bank transfer funds from their preestablished l ine of credit 
+to their demand deposit account before negotiating a check 
+against them.  A special draft system involves the 
+customer negotiating a special check drawn directly 
+against a preestablished line of credit.  In that method, 
+demand deposit account s are not affected.  In all three 
+systems, the bank periodically provides its check credit 
+customers with a statement of account activity.  Required 
+minimum payments are computed as a fraction of the 
+balance of the account on the cycle date and may be made 
+by automatic charges to a demand deposit account. 
+ 
+Most bank credit card plans are similar.  The bank solicits

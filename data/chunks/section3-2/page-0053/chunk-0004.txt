@@ -1,0 +1,18 @@
+investment in the loan , a loss is charged to the  ALLL.  
+When property is received in full satisfaction of an asset 
+other than a loan (e.g., a debt security), the loss should be 
+reflected in a manner consistent with the balance sheet 
+classification of the asset satisfied.  When long-lived assets 
+that will be sold, such as real estate, are received in full 
+satisfaction of a loan, the real estate is recorded at its fair 
+value less cost to sell.  This fair value (less cost to sell) 
+becomes the “cost” of the foreclosed asset.  
+ 
+To illustrate, assume a bank forecloses on a defaulted 
+mortgage loan of $100,000 and takes title to the property.  
+If the fair value of the realty at the time of foreclosure is 
+$90,000 and costs to sell are estimated at $10,000, a 
+$20,000 loss should be immediately recognized by a 
+charge to the ALLL.  The cost of the foreclosed asset 
+becomes $80,000.  If the bank is on an accrual basis of 
+accounting, there may also be adjusting entries necessary

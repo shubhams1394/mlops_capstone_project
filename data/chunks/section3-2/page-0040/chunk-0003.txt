@@ -1,0 +1,17 @@
+December 31, 2001, which are subject to implicit 
+(unwritten, noncontractual) recourse provisions may be 
+accounted for as sales by both the seller and the purchas er 
+for financial reporting purposes, provided the other sales 
+criteria addressed above are met.  However, if the seller 
+demonstrates intent to repurchase participations sold in the 
+event of default even in the absence of a formal obligation 
+to do so, then these participations will be treated as assets 
+sold with recourse when calculating the seller's risk -based 
+capital ratios.  Consistent with an AICPA auditing 
+interpretation, FDIC-insured institutions which account for 
+loan participations transferred after December 31, 2001, as 
+sales rather than as secured borrowings for financial 
+reporting purposes should generally do so only if the 
+participation agreement is supported by a legal opinion 
+explaining how the isolation test for sales accounting 
+treatment is met given the FDIC's receivership powers.

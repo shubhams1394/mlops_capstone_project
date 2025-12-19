@@ -1,0 +1,20 @@
+capacity (DSC) should be analyzed using both the base -
+case and sensitivity-case scenarios.  
+ 
+Discount Rates 
+ 
+The Securities and Exchange Commission (SEC) requires 
+publicly traded companies to report the value of their 
+reserves using a standard discount rate of 10 percent in 
+accordance with ASC 932 (Extractive Activities -  Oil and 
+Gas).  In evaluating collateral valuations for RBL 
+facilities, banks often utilize alternative discount rates.  
+For creditworthy borrowers and during more benign 
+operating cycles, a 9 percent discount rate is commonly 
+used.  For higher -risk borrowers or during volatile or 
+declining market cycles for O&G, higher discount rates are 
+typically used.  If a discount rate is selected that 
+significantly differs from generally accepted discount 
+rates, management should support and document its 
+rationale.  Some banks may utilize multiple discount rates 
+under certain circumstances.  An example may include

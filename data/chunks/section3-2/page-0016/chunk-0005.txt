@@ -1,0 +1,19 @@
+Loan Structure 
+ 
+RBL credit facilities are typically structured as a revolving 
+line of credit (RLOC), a reducing revolving line of credit 
+(RRLOC), or an amortizing term loan, governed by a well-
+supported and fully documented borrowing base.  These 
+credit facilities generally should fully amortize within the 
+half-life of the reserves ( that is, the time in years required 
+to produce one -half of the total estimated recoverable 
+production) with repayment aligning with projected cash 
+flows.  In other words, the term of the loans should be tied 
+to the economic life of the underlying asset.  T his is often 
+represented as the “reserve tail tests” that are based on the 
+economic half -life of the reserves or the cash flow 
+remaining after projected loan payout.   
+ 
+Loan durations should be fairly short -term and directly 
+tied to the economic life of th e asset (generally 50 to 60 
+percent of the economic life of the proved reserves or the

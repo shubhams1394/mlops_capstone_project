@@ -1,0 +1,19 @@
+well-documented assumptions; and completed 
+independently of the loan origination and collection 
+functions.  Management must be able to document the 
+qualifications and independence of the engineer, and 
+should periodically evaluate the production performance, 
+which should include a comparison of produc tion 
+projections to actual results. 
+ 
+RBL collateral value consists of a point-in-time estimate of 
+the present value (PV) of future net revenue (FNR) 
+derived from the production and sale of existing O&G 
+reserves, net of operating expenses, production taxes,  
+royalties, and CAPEX, discounted at an appropriate rate.  
+The engineering reports should contain sufficient 
+information and documentation to support the assumptions 
+and the analysis used to derive the forecasted cash flows 
+and discounted PV.  Bank managem ent should provide 
+clear guidance to the engineer at engagement regarding 
+discount rates, pricing assumptions, operating expense

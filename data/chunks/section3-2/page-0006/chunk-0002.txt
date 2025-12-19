@@ -1,0 +1,20 @@
+collateral dependent.  When d eveloping the estimate of 
+expected future cash flows for a loan, an institution should 
+consider all available information reflecting past events 
+and current conditions, including the effect of existing 
+environmental factors.   
+ 
+Large groups of smaller -balance homogenous loans that 
+are collectively evaluated for impairment are not included 
+in the scope of FAS 114.  Such groups of loans may 
+include, but are not limited to, credit card, residential 
+mortgage, and consumer installment loans.  FAS 5 
+addresses the accounting for impairment of these loans.  
+Also, FAS 5 provides the accounting guidance for 
+impairment of loans that are not identified for evaluation 
+on an individual basis and loans that are individually 
+evaluated but are not individually considered impaired. 
+ 
+Institutions should not layer their loan loss allowances.  
+Layering is the inappropriate practice of recording in the 
+ALLL more than one amount for the same probable loan

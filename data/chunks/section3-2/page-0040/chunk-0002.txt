@@ -1,0 +1,17 @@
+must be accounted for pursuant to all of the provisions of 
+FAS 140, including its isolation test.  In accordance with 
+FAS 140, loan participations sold by FDIC -insured 
+institutions with recourse generally will not be considered 
+isolated from creditors in the ev ent of receivership due to 
+the FDIC's power to reclaim the participated assets.  As a 
+result, loan participations transferred after December 31, 
+2001, which are subject to formal (written, contractual) 
+recourse provisions should be accounted for as secured 
+borrowings by both the seller and the purchaser for 
+financial reporting purposes.  This means that the seller 
+must not reduce the loan assets on its balance sheet for the 
+participation, and that the entire amount of the loan must 
+be included in the seller's assets for both leverage and risk-
+based capital purposes.  Participations transferred after 
+December 31, 2001, which are subject to implicit 
+(unwritten, noncontractual) recourse provisions may be

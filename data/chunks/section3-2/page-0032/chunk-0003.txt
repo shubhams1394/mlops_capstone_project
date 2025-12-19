@@ -1,0 +1,18 @@
+approach is usually the appropriate method for 
+valuing the property.   The income approach converts 
+all expected future net operating income into present 
+value terms.  When m arket conditions are stable and 
+no unusual patterns of future rents and occupancy 
+rates are expected, the direct capitalization method is 
+often used to estimate the present value of future 
+income streams.  For troubled properties, however, the 
+more explicit discounted cash flow (net present value) 
+method is more typically utilized for analytical 
+purposes.  In the rent method, a time frame for 
+achieving a "stabilized", or normal, occupancy and 
+rent level is projected.  Each year's net operating 
+income during that period is discounted to arrive at 
+present value of expected future cash flows.   The 
+property's anticipated sales value at the end of the 
+period until stabilization (its terminal or reversion 
+value) is then estimated.  The reversion value

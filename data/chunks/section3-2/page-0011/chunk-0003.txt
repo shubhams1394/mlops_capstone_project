@@ -1,0 +1,19 @@
+flows are cyclical or variable over time.  B oth income 
+methods involve numerous assumptions, and therefore, 
+supporting documentation should fully explain the 
+evaluator’s reasoning and conclusions. 
+ 
+When a borrower is experiencing a financial downturn or 
+facing adverse market conditions, a lender should reflect 
+those adverse conditions in its assumptions for key 
+variables such as cash flow, earnings, and sales multiples 
+when assessing enterprise value as a potential source of 
+repayment.  Changes in the value of a borrower’s assets 
+should be tested under a range of stress scenarios, 
+including business conditions more adverse than the base 
+case scenario.  Stress tests of enterprise values and their 
+underlying assumptions should be conducted and 
+documented at origination of the transaction and 
+periodically thereafter, incorporating the actual 
+performance of the borrower and any adjustments to 
+projections.  The institution should perform its own

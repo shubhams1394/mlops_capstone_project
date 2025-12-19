@@ -1,0 +1,18 @@
+accounting treatment of a loan participation, they may 
+affect the risk-based capital treatment of a participation. 
+ 
+Loan participations transferred prior to April 1, 2001, are 
+accounted for based on FAS 125, Accounting for Transfers 
+and Servicing of Financial Assets and Extinguishments of 
+Liabilities.  The sales criteria contained in FAS 125 are 
+very similar to those contained in FAS 140, which are 
+summarized above.  However, for FDIC -insured 
+institutions, the first of the sales criteria in FAS 140, 
+known as the isolation test, applies to transfers occ urring 
+after December 31, 2001.  As a result, loan participations 
+transferred from April 1 through December 31, 2001, are 
+subject to the isolation test in FAS 125, but are otherwise 
+accounted for based on FAS 140.  Based upon the FASB's 
+initial understandi ng of the nature of the FDIC's 
+receivership power to reclaim certain assets sold by 
+institutions that subsequently failed when it was drafting

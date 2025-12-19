@@ -1,0 +1,21 @@
+and detailed operating procedures,  should also be 
+implemented. Internal controls should be in place to ensure 
+that the policy is followed.   Institutions lacking sound 
+policies or failing to implement or effectively follow 
+established policies will be subject to criticism. 
+ 
+Examination Treatment 
+ 
+Use of the formula classification approach can result  in 
+numerous small dollar adversely classified items .  
+Although these classification details are not always  
+included in the R eport of Examination, an itemized list is 
+to be left with management.  A copy of the listing should 
+also be retained in the examination work papers.   
+ 
+Examiner support packages are available which have built 
+in parameters of the formula classification policy, and 
+which generate a listing of delinquent consumer loans to 
+be cl assified in accordance with the policy.  Use of this 
+package may expedite the examination in certain cases, 
+especially in larger banks.

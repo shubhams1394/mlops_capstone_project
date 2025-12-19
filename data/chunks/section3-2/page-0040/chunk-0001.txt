@@ -1,0 +1,19 @@
+LOANS Section 3.2 
+Loans (8-16) 3.2-40 RMS Manual of Examination Policies 
+  Federal Deposit Insurance Corporation 
+360 of the FDIC Rules and Regulations.  Section 360.6 
+limits the FDIC's ability to reclaim certain loan 
+participations sold without recourse, but does not limit the 
+FDIC's ability to reclaim loan particip ations sold with 
+recourse.  For purposes of Section 360.6, the phrase 
+"without recourse" means that the participation is not 
+subject to any agreement which requires the lead bank 
+(seller) to repurchase the participant's (purchaser's) interest 
+in the loan or to otherwise compensate the participant due 
+to a default on the underlying loan.  The FASB's new 
+understanding of the FDIC's receivership powers, 
+including Part 360, is addressed in FAS 140. 
+ 
+Loan participations transferred after December 31, 2001, 
+must be accounted for pursuant to all of the provisions of 
+FAS 140, including its isolation test.  In accordance with

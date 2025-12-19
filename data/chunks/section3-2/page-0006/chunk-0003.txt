@@ -1,0 +1,22 @@
+Layering is the inappropriate practice of recording in the 
+ALLL more than one amount for the same probable loan 
+loss.  Layering can happen when an institution includes a 
+loan in one segment , determines its best estimate of loss 
+for that loan either individually or on a group basis (after 
+taking into account all appropriate environmental factors, 
+conditions, and events), and then includes the loan in 
+another group, which receives an additiona l ALLL 
+amount. 
+ 
+While different institutions may use different methods, 
+there are certain common elements that should be included 
+in any ALLL methodology.  Generally, an institution’s 
+methodology should: 
+ 
+• Include a detailed loan portfolio analysis , performed 
+regularly; 
+• Consider all loans (whether on an individual or group 
+basis); 
+• Identify loans to be evaluated for impairment on an 
+individual basis under FAS 114 and segment the 
+remainder of the portfolio into groups of loans with

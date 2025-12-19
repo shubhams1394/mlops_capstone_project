@@ -1,0 +1,21 @@
+applies to both the transferor (seller) of assets and the 
+transferee (purchaser). 
+ 
+Loan participations are accounted for as sales provided the 
+sales criteria in FAS 140 are met.  If the sales criteria are 
+not met , participations are accounted for as secured 
+borrowings.  The sales criteria focus on whether or not 
+control is effectively transferred to the purchaser.  To 
+qualify for sales treatment three criteria must be met:  
+  
+• The purchaser's interest in the loan m ust be isolated 
+from the seller, meaning that the purchaser's interest 
+in the loan is presumptively beyond the reach of the 
+seller and its creditors, even in bankruptcy or other 
+receivership;  
+• Each purchaser has the right to pledge or exchange its 
+interest in the loan, and there are no conditions that 
+both constrain the purchaser from taking advantage of 
+that right and provide more than a trivial benefit to the 
+seller; and 
+• The agreement does not both entitle and obligate the

@@ -1,0 +1,18 @@
+established cut -off scores.  If the institution’s scoring 
+system effectively predicts loss rates and reflects 
+management’s risk par ameters, excessive overrides will 
+negate the benefits of an automated scoring system.  
+Therefore, it is critical for management to monitor and 
+control overrides.  Institutions should develop acceptable 
+override limits and prepare monthly override reports t hat 
+provide comparisons over time and against the institution’s 
+parameters.  Override reports should also identify the 
+approving officer and include the reason for the override. 
+ 
+Although banks often use more than one type of credit 
+scoring methodology in their underwriting and account 
+management practices, many systems incorporate credit 
+bureau scores.  Credit bureau scores are updated 
+periodically and validated on an ongoing basis against 
+performance in credit bureau files.  Scores are designed to 
+be comp arable across the major credit bureaus; however,

@@ -1,0 +1,18 @@
+excess amount of the loan’s book value is determined to be 
+uncollectible, this excess amount should be promptly 
+charged-off against the ALLL.   
+ 
+For example, in lieu of foreclosure, a bank chooses to 
+restructure a $100,000 loan to a borrower which had 
+originally been granted with an interest rate of 10 percent 
+for 10 years.  The  bank and the borrower have agreed to 
+capitalize the accrued interest ($10,000) into the note 
+balance, but the restructured terms will permit the 
+borrower to repay the debt over 10 years at a six percent 
+interest rate.  The bank does not believe the loan i s 
+collateral dependent.  In this situation, the bank would 
+record the restructured loan at the present value of the new 
+note amount ($110,000) discounted at the 10 percent rate 
+specified in the original contract.  This amount becomes 
+the loan’s fair value.   The difference between the 
+calculated fair value and the book value of the bank’s

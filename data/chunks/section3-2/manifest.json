@@ -1,0 +1,2496 @@
+{
+  "pdf_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\documents\\section3-2.pdf",
+  "pdf_stem": "section3-2",
+  "total_pages": 80,
+  "total_chunks": 522,
+  "pages": [
+    {
+      "page_number": 1,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0001\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0002\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0003\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0004\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0005\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0006\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0007\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0008\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0009\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0010\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0011\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0012\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0013\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0014\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0015\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0016\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0017\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0018\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0019\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0020\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0021\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0022\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0023\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0024\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0025\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0026\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0027\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0028\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0029\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0030\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0031\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0032\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0033\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0034\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0035\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0036\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0037\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0038\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0039\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0040\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0041\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0042\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0043\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0044\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0045\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0046\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0047\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0048\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0049\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0050\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 51,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0051\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 52,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0052\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 53,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0053\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 54,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0054\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 55,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0055\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 56,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0056\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 57,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0057\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 58,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0058\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 59,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0059\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 60,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0060\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 61,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0061\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 62,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0062\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 63,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0063\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 64,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0064\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 65,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0065\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 66,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0066\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 67,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0067\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 68,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0068\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 69,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0069\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 70,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0070\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 71,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0071\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 72,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0072\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 73,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0073\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 74,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0074\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 75,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0075\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 76,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0076\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 77,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0077\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 78,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0006.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0007.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0078\\chunk-0007.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 79,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0004.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0005.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0005.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0006.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0079\\chunk-0006.metadata.json"
+        }
+      ]
+    },
+    {
+      "page_number": 80,
+      "chunks": [
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0001.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0001.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0002.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0002.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0003.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0003.metadata.json"
+        },
+        {
+          "text_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0004.txt",
+          "metadata_file": "C:\\Users\\mlops5\\MLOPS_PROJECT_BFS\\data\\chunks\\section3-2\\page-0080\\chunk-0004.metadata.json"
+        }
+      ]
+    }
+  ]
+}

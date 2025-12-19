@@ -1,0 +1,22 @@
+Borrowing base commitment on RBL is $125 million  
+ TC Pass SM II III IV 
+RBL $125   $95 $25 $5 
+Total $125   $95 $25 $5 
+TC: Total Commitment SM: Special Mention   
+II: Substandard III: Doubtful IV: Loss 
+ 
+Note: The $25 million of Doubtful represents the 
+difference between the unrisked NPV and the risked NPV. 
+If the borrower's prospects for further developing PDNP 
+and PUD reserves to producing status are unlikely or not 
+supported by  a pending event, this amount should be 
+reflected as Loss. 
+ 
+Institutions should follow outstanding guidance when 
+determining whether a loan should be placed on 
+nonaccrual.  Each extension should be independently 
+evaluated to determine whether it should be on nonaccrual; 
+that is, nonaccrual status should not be automatically 
+applied to multiple loans or extensions of credit to a single 
+borrower if only one loan meets the criteria for nonaccrual 
+status.  However, multiple loans to one borrower that are

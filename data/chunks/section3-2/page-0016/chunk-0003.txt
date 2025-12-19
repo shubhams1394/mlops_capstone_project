@@ -1,0 +1,22 @@
+rationale.  Some banks may utilize multiple discount rates 
+under certain circumstances.  An example may include 
+establishing a standard discount rate for performing credits 
+and a higher rate for higher risk facilities.     
+ 
+ 
+Price Decks 
+ 
+Management should regularly evaluate, and update as 
+necessary, its pricing assumptions for RBL, commonly 
+referred to as the bank’s price deck.  The price deck is a 
+forecast used to de rive cash flow and collateral value 
+assumptions, and should be approved by the board of 
+directors or a specifically designated board committee.  
+Pricing assumptions typically represent the most 
+significant variable in driving the final estimate of value, 
+and must be well-supported.   
+ 
+Each bank’s price deck should reflect both base -case and 
+sensitivity-case pricing scenarios.  Pricing assumptions for 
+the sensitivity case should be sufficiently conservative and 
+used to determine whether the borrower has the financial

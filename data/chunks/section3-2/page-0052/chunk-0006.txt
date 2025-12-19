@@ -1,0 +1,18 @@
+impaired loans is s et forth in FAS 114, Accounting by 
+Creditors for Impairment of a Loan as amended by FAS 
+118, Accounting by Creditors for Impairment of a Loan -  
+Income Recognition and Disclosures .  FAS 114 applies to 
+all loans, except large groups of smaller -balance 
+homogenous loans that are collectively evaluated for 
+impairment and loans that are measured at fair value or the 
+lower of cost or fair value. 
+When a loan is impaired under FAS 114, the amount of 
+impairment should be measured based on the present value 
+of expected future cash flows discounted at the loan’s 
+effective interest rate (i.e., the contractual interest rate 
+adjusted for any net deferred loan fees or costs  and 
+premium or discount existing at the origination or 
+acquisition of the loan).  As a practical expe dient, 
+impairment may also be measured based on a loan’s 
+observable market price, or the fair value of the collateral, 
+if the loan is collateral dependent.  A loan is collateral

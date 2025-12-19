@@ -1,0 +1,22 @@
+specify a direct link between the estimated loss rates used 
+to determine the required ALLL, and the unexpected loss 
+estimates used to determine capital.  
+ 
+The sophistication of this analysis should be 
+commensurate with the size, concentration level, and 
+relative risk of the institution’s subprime lending activities 
+and should consider the following elements:   
+ 
+• Portfolio growth rates; 
+• Trends in the level and volatility of expected losses; 
+• The level of subprime loan losses incurred over one or 
+more economic downturns, if such data/analyses are 
+available; 
+• The impact of planned underwriting or marketing 
+changes on the credit characteristics of the portfolio, 
+including the relative levels of risk of default, loss in 
+the event of default, and the level of classified assets; 
+• Any deterioration in the average  credit quality over 
+time due to adverse selection or retention; 
+• The amount, quality, and liquidity of collateral 
+securing the individual loans;
