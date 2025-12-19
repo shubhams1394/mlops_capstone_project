@@ -1,0 +1,18 @@
+performance in credit bureau files.  Scores are designed to 
+be comp arable across the major credit bureaus; however, 
+the ability of any score to estimate performance outcome 
+probabilities depends on the quality, quantity, and timely 
+submission of lender data to the various credit bureaus.  
+Often, the depth and thoroughness  of data available to 
+each credit bureau varies, and as a consequence, the 
+quality of scores varies. 
+ 
+As a precaution, institutions that rely on credit bureau 
+scores should sample and compare credit bureau reports to 
+determine which credit bureau most effectively captures 
+data for the market(s) in which the institution does 
+business.  For institutions that acquire credit from multiple 
+regions, use of multiple scorecards may be appropriate, 
+depending on apparent regional credit bureau strength.  In 
+some inst ances, it may be worthwhile for institutions to 
+pull scores from each of the major credit bureaus and

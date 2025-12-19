@@ -1,0 +1,10 @@
+policy.  For subprime loans that are not adversely 
+classified, the ALLL should be sufficient to absorb at least 
+all estimated credit losses on outstanding balances over the 
+current operating cycle, typically 12 months.  To the extent 
+that the historical net charge -off rate is used to estimate 
+expected credit losses, it should be adjusted for changes in 
+trends, conditions, and other relevant factors, including 
+business volume, underwriting, risk selection, account 
+management practices, and current economic or business 
+conditions that may alter such experience.

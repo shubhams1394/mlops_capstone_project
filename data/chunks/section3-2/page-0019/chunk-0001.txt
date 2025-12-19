@@ -1,0 +1,31 @@
+LOANS Section 3.2 
+RMS Manual of Examination Policies 3.2-19 Loans (8-16) 
+Federal Deposit Insurance Corporation 
+The following tables illustrate an example of the rating 
+methodology for a classified borrower. Actual pricing, 
+discount rates, and ri sk adjustment factors applied by the 
+bank may vary according to current market conditions and 
+the nature of the reserves.  Examiners should closely 
+review the key assumptions made by the bank in arriving 
+at the current collateral valuation. 
+ 
+Example: Collateral Valuation ($ Million)   
+Discounted NPV at 9% and using NYMEX Strip Pricing  
+Valuation Hedges PDP PDNP PUD Total  
+ Basis     Proved 
+ Unrisked $10 $50 $20 $40 $120 
+ NPV  
+ Risk 100% 100% 75% 50%  
+adjustment  
+ factors  
+ Risked & $10 $50 $15 $20 $95 
+ Adjusted  
+ NPV  
+  Total collateral value: $95 
+ 
+ 
+Example: Classification ($ Million) 
+Borrowing base commitment on RBL is $125 million  
+ TC Pass SM II III IV 
+RBL $125   $95 $25 $5 
+Total $125   $95 $25 $5

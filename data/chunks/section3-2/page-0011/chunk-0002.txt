@@ -1,0 +1,19 @@
+credible results.  In many cases, the income method is 
+generally considered the most reliable. 
+ 
+There are two common approaches employed when using 
+the income method.  The “capitalized cash flow” method 
+determines the value of a company as the present value of 
+all future cash flows the business can generate in 
+perpetuity.  An appropriate cash flow is determined and 
+then divided by a risk- adjusted capitalization rate, most 
+commonly the weighted average cost of capital.  This 
+method is most appropriate when cash flows are 
+predictable and stable.  The “discounted cash flow” 
+method is a multiple -period valuation model that converts 
+a future series o f cash flows into current value by 
+discounting those cash flows at a rate of return (referred to 
+as the “discount rate”) that reflects the risk inherent 
+therein.  This method is most appropriate when future cash 
+flows are cyclical or variable over time.  B oth income 
+methods involve numerous assumptions, and therefore,

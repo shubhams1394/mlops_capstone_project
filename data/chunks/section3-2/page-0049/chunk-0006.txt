@@ -1,0 +1,19 @@
+loan, or "B" note, represents the portion of the original 
+loan that has been charged-off. 
+ 
+Such TDRs generally may take any of three forms. In 
+certain TDRs, the "B" note may be a contingent receivable 
+that is payable only if certain conditions are met (e.g., 
+sufficient cash flow from property).   For other TDRs, the 
+"B" note may be contingently forgiven (e.g., note "B" is 
+forgiven if note "A" is paid in full).   In other instances, an 
+institution would have granted a concession (e.g., rate 
+reduction) to the troubled borrower but the "B" note would 
+remain a contractual obligation of the borrower.  Because 
+the "B" note is not reflected as an asset on the institution's 
+books and is unlikely to be collected, for reporting 
+purposes the "B" note could be viewed as a contingent 
+receivable. 
+ 
+Institutions may return the "A" note to accrual status 
+provided the following conditions are met:

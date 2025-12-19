@@ -1,0 +1,17 @@
+becomes $80,000.  If the bank is on an accrual basis of 
+accounting, there may also be adjusting entries necessary 
+to reduce both the accrued interest receivable and loan 
+interest income accounts. Assume further that in order to 
+effect sale of the realty to a third party, the bank is willing 
+to offer a new mortgage loan (e.g., of $100,000) at a 
+concessionary rate of interest (e.g., 10  percent while the 
+market rate for new loans with similar risk is 20  percent). 
+Before booking this new transaction, the bank must 
+establish its "economic value".  Pursuant to Accounting 
+Principles Board Opinion No. 21 (APB 21, Interest on 
+Receivables and Payables), the value is represented by the 
+sum of the present value of the income stream to be 
+received from the new loan, discounted at t he current 
+market rate for this type of credit, and the present value of 
+the principal to be received, also discounted at the current 
+market rate.  This economic value is the proper carrying

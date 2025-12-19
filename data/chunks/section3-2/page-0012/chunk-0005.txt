@@ -1,0 +1,21 @@
+the source of repayment for leveraged loans. 
+Reporting should also consider the implications of 
+defaults that trigger pari passu treatment for all 
+lenders and, thus, dilute the secondary support from 
+the sale of collateral; 
+• Secondary market pricing data and trading volume, 
+when available; 
+• Exposures and performance by deal sponsors. Deals 
+introduced by sponsors may, in some cases, be 
+considered exposure t o related borrowers. An 
+institution should identify, aggregate, and monitor 
+potential related exposures; 
+• Gross and net exposures, hedge counterparty 
+concentrations, and policy exceptions; 
+• Actual versus projected distribution of the syndicated 
+pipeline, with regular reports of excess levels over the 
+hold targets for the syndication inventory. Pipeline 
+definitions should clearly identify the type of 
+exposure. This includes committed exposures that 
+have not been accepted by the borrower, commitments 
+accepted b ut not closed, and funded and unfunded

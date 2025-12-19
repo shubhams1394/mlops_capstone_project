@@ -1,0 +1,20 @@
+should include “shock” testing of basic assumptions such 
+as delinquency rates, loss rates, and recovery rates o n 
+collateral.  It should also consider other potentially adverse 
+scenarios, such as: changing attrition or prepayment rates; 
+changing utilization rates for revolving products; changes 
+in credit score distribution; and changes in the capital 
+markets demand for whole loans, or asset -backed 
+securities supported by subprime loans. 
+ 
+These are representative examples .  Actual factors will 
+vary by product, market segment, and the size and 
+complexity of the portfolio relative to the institution’s 
+overall operations .  Whether stress tests are performed 
+manually, or through automated modeling techniques, the 
+Regulatory Agencies will expect that:  
+ 
+• The process is clearly documented, rational, and easily 
+understood by the board and senior management; 
+• The inputs are reli able and relate directly to the 
+subject portfolios;

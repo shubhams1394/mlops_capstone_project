@@ -1,0 +1,19 @@
+some inst ances, it may be worthwhile for institutions to 
+pull scores from each of the major credit bureaus and 
+establish rules for selecting an average value. By tracking 
+credit bureau scores over time and capturing performance 
+data to differentiate which score seems to best indicate 
+probable performance outcome, institutions can select the 
+best score for any given market.  Efforts to differentiate 
+and select the best credit bureau score should be 
+documented.  
+ 
+Although some institutions develop their own scoring 
+models, most are built by outside vendors and 
+subsequently maintained by the institution.  Vendors build 
+scoring models based upon specific information and 
+parameters provided by bank management.  Therefore, 
+management must clearly communicate with the vendo r 
+and ensure that the scorecard developer clearly 
+understands the bank’s objectives.  Bank management 
+should also adhere closely to vendor manual specifications

@@ -1,0 +1,24 @@
+agent banks.  The fee may be a percentage of the whole 
+facility or a pre-arranged fixed sum. 
+ 
+LIBOR – London Interbank Offered Rate  – The interest 
+rate at which major international banks in London lend to 
+each other and the rate(s) frequently underlying loan 
+interest calculations.  LIBOR will vary according to 
+market conditions and will of course depend upon the loan 
+period as well as the currency in question.   
+ 
+Participating Banks – a bank that has lent a portion of the 
+outstanding amount to the borrower. 
+ 
+Reference Bank – A bank that sets the lending rate 
+(LIBOR) at the moment of each loan rollover period 
+ 
+Tranche – In a large syndi cated loan, different portions of 
+the facility may be made available at different time 
+periods, and in different currencies.  These separate 
+components are known as “tranches” of the facility. 
+ 
+Underwriter - A bank that guarantees the lending of the 
+funds to the borrower irrespective of successful 
+syndication or not.

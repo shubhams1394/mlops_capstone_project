@@ -1,0 +1,20 @@
+LOANS Section 3.2 
+Loans (8-16) 3.2-16 RMS Manual of Examination Policies 
+  Federal Deposit Insurance Corporation 
+As part of the underwriting process, lending personnel 
+should prepare both base -case and sensitivity -case 
+analyses that focus on the ability of converting the 
+underlying collateral into cash to repay the loan, including 
+an estimate of the impact that sustained adverse changes in 
+market conditions would have on a company’s repayment 
+ability.  A base -case analysis uses standard assumption 
+scenarios and generally includes a discount to current 
+prices against the forward curve (projected futures pricing 
+estimates of the commodity).  A sensitivity case analysis 
+subjects the O&G reserves to adverse external factors such 
+as lower market prices and/or higher operating expenses to 
+ascertain the effect o n loan repayment.  Full debt service 
+capacity (DSC) should be analyzed using both the base -
+case and sensitivity-case scenarios.  
+ 
+Discount Rates

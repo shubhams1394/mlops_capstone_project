@@ -1,0 +1,19 @@
+decisions, its program should identify the type of appraisal 
+report that will be appropriate for various lending 
+transactions.  The institution's program should consider the 
+risk, size, and complexity of the individual loan and the 
+supporting collateral when determining the level of 
+appraisal development and the type of report format that 
+will be ordered.  When ordering an appraisal report, 
+institutions may w ant to consider the benefits of a written 
+engagement letter that outlines the institution's 
+expectations and delineates each party's responsibilities, 
+especially for large, complex, or out-of-area properties.   
+ 
+Transactions That Require Evaluations  - A formal opinion 
+of market value prepared by a state licensed or certified 
+appraiser is not always necessary.  Instead, less formal 
+evaluations of the real estate may suffice for transactions 
+that are exempt from the agencies' appraisal requirements.   
+ 
+Institutions should also establish criteria for obtaining

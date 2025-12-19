@@ -1,0 +1,17 @@
+RBL may appear similar to traditional asset based lending 
+(ABL), but there are notable differences.  The primary 
+source of repayment for ABL is the orderly liquidation of 
+the collateral (receivables and inv entory) into cash.  Such 
+loans are typically structured with strong controls over the 
+collateral, such as a lock box arrangement.  In contrast, the 
+primary source of repayment for RBL is the cash flows 
+derived from the extraction of O&G reserves.  An 
+independent, third-party reserve engineering report serves 
+as the primary underwriting tool to estimate the future cash 
+stream and establish a “borrowing base,” which is a 
+collateral base agreed to by the borrower and lender that is 
+used to limit the amount of funds the lender advances the 
+borrower.  The borrowing base is subject to periodic 
+redeterminations, typically semiannually, that can result in 
+the reduction of the borrowing base commitment when 
+commodity prices and reserves are declining.

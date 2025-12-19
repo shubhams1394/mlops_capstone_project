@@ -1,0 +1,22 @@
+Frequency of Reviews 
+ 
+The loan review function should provide feedback on the 
+effectiveness of the lending process in identifying 
+emerging problems.  Reviews of significant credits should 
+generally be performed annually, upon renewal, or more 
+frequently when factors indicate a potential for 
+deteriorating credit quality.  A system of periodic reviews 
+is particularly important to the ALLL determination 
+process. 
+ 
+Scope of Reviews 
+ 
+Reviews should cover all loans that are considered 
+significant.  In addition to loans over a predetermined size, 
+management will normally review smaller loans that 
+present elevated risk characteristics such as credits that are 
+delinquent, on nonaccrual status, restructured, previously 
+classified, or designated as Special Mention.  Additionally, 
+management may wish to periodically review insider 
+loans, recently renewed credits, or loans affected by 
+common repayment factors.  The percentage of the

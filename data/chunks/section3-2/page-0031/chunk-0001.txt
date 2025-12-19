@@ -1,0 +1,19 @@
+LOANS Section 3.2 
+RMS Manual of Examination Policies 3.2-31 Loans (8-16) 
+Federal Deposit Insurance Corporation 
+Credit Card-related Merchant Activities 
+ 
+Merchant credit card activities basically involve the 
+acceptance of credit card sales drafts for clearing b y a 
+financial institution (clearing institution).  For the clearing 
+institution, these activities are generally characterized by 
+thin profit margins amidst high transactional and sales 
+volumes.  Typically, a merchant's customer will charge an 
+item on a credit card, and the clearing institution will give 
+credit to the merchant's account.  Should the customer 
+dispute a charge transaction, the c learing institution is 
+obligated to honor the customer's legitimate request to 
+reverse the transaction.  The Clearing  Institution must then 
+seek reimbursement from the merchant.  Problems arise 
+when the merchant is not creditworthy and is unable, or 
+unwilling, to reimburse the c learing institution.  In these

@@ -1,0 +1,18 @@
+explaining how the isolation test for sales accounting 
+treatment is met given the FDIC's receivership powers.   
+ 
+Call Report Treatment  - When a loan participation is 
+accounted for as a sale, the seller removes the participated 
+interest in the loan from its books.  The purchaser reports 
+its interest in the loan as Loans in th e Report of Condition, 
+and in Call Report Schedule RC- C - Loans and Lease 
+Financing Receivables, based upon collateral, borrower, or 
+purpose.  If a loan participation is accounted for as a 
+secured borrowing, the seller does not remove the loan 
+from its books.  The participated portion of the loan is 
+reported as both Loans and Other Borrowed Money in the 
+Report of Condition.  The purchaser would report its 
+interest in the loan as Loans in the Report of Condition, 
+and as Loans to depository institutions and a cceptances of 
+other banks in Schedule RC-C.  More detailed guidance on 
+accounting for transfers of financial assets, including loan

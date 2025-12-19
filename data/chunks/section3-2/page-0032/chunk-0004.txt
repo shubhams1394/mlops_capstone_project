@@ -1,0 +1,20 @@
+period until stabilization (its terminal or reversion 
+value) is then estimated.  The reversion value 
+represents the capitalization of all future income 
+streams of the property after the projected occupancy 
+level is achieved.   The terminal or reversion value is 
+then discounted to its present value and added to the 
+discounted income stream to arrive at the total pres ent 
+market value of the property. 
+ 
+Valuation of Troubled Income-Producing Properties 
+ 
+When an income property is experiencing financial 
+difficulties due to general market conditions or due to its 
+own characteristics, data on comparable property sales is  
+often difficult to obtain.  Troubled properties may be hard 
+to market, and normal financing arrangements may not be 
+available.  Moreover, forced and liquidation sales can 
+dominate market activity.  When the use of comparables is 
+not feasible (which is often the case for commercial 
+properties), the net present value of the most reasonable

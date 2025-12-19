@@ -1,0 +1,20 @@
+are established by the card issuing networks. 
+ 
+Another possible problem with merchant activities 
+involves clearing institutions that sometimes engage the 
+services of agents, such as an independent sales 
+organization ( ISO).  ISOs solicit merchants' credit ca rd 
+transactions for a c learing institution.  In some cases, the 
+ISOs actually contract with merchants on behalf of 
+clearing institutions.  Some of these contracts are entered 
+into by the ISOs without the review and approval of the 
+clearing institutions.  A t times, clearing institutions 
+unfortunately rely too much on the ISOs to oversee 
+account activity.  In some cases, c learing institutions have 
+permitted ISOs to contract with disreputable merchants.  
+Because of the poor condition of the merchant, or ISO, or 
+both, these clearing institutions can ultimately incur heavy 
+losses. 
+ 
+A financial institution with credit card clearing activities 
+should develop its own internal controls and procedures to

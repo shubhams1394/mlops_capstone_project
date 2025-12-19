@@ -1,0 +1,19 @@
+use scoring systems for approvals or pricing, the model 
+should be tailored to address the behavioral and credit 
+characteristics of the subprime population targeted and the 
+products offered.  It is not acceptable to rely on models 
+developed for standard risk borrowers or products.  
+Furthermore, the models should be reviewed frequently 
+and updated as necessary to ensure assumptions remain 
+valid. 
+ 
+Given the higher credit risk associated with the subprime 
+borrower, effective subprime len ders use mitigating 
+underwriting guidelines and risk- based pricing to reduce 
+the overall risk of the loan.  These guidelines include 
+lower loan -to-value ratio requirements and lower 
+maximum loan amounts relative to each risk grade within 
+the portfolio.  Gi ven the high- risk nature of subprime 
+lending, the need for thorough analysis and documentation 
+is heightened relative to prime lending.  Compromises in 
+analysis or documentation can substantially increase the

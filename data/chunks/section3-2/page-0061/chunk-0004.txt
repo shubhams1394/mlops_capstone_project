@@ -1,0 +1,17 @@
+earliest perfected security interest has priority.  The first 
+concerns a specific secured transaction in which a creditor 
+makes a loan to a dealer and takes a security interest in the 
+dealer's inventory.   Suppose such a creditor files a 
+financing statement with the appropriate public official to 
+perfect the security interest.  While it might be possible for 
+the dealer's customers to determine if an outstanding 
+security interest already exists against the inventory, it 
+would be impractical to do so.  Therefore, an exception is 
+made to the general rule and provides that a buyer in the 
+ordinary course of business, i.e., an innocent purchaser for 
+value who buys in the normal manner, cuts off a prior 
+perfected security interest in the collateral. 
+ 
+The second exception to the rule of priority concerns the 
+vulnerability of security interests perfected by doing 
+nothing.  While these interests are perfected automatically,

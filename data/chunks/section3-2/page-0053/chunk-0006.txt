@@ -1,0 +1,17 @@
+the principal to be received, also discounted at the current 
+market rate.  This economic value is the proper carrying 
+value for the asset at its origination date, and if less than 
+the fair value less cost to sell at time of foreclosure (e.g., 
+$78,000 vs. $80,000), an additional loss has been incurred 
+and should be immediately recognized.  This additional 
+loss should be reflected in the allowance if a relatively 
+brief period has elapsed  between foreclosure and 
+subsequent resale of the property.  However, the loss 
+should be treated as "other operating expenses" if the asset 
+has been held for a longer period.  The new loan would be 
+placed on the books at its face value ($100,000) and the 
+difference between the new loan amount and the 
+"economic value" ($78,000) is treated as unearned 
+discount ($22,000). For examination and Call Report 
+purposes, the asset would be shown net of the unearned 
+discount which is reduced periodically as it is earne d over

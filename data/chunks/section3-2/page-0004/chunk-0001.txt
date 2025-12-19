@@ -1,0 +1,19 @@
+LOANS Section 3.2 
+Loans (8-16) 3.2-4 RMS Manual of Examination Policies 
+  Federal Deposit Insurance Corporation 
+This separate allowance for credit losses on off -balance 
+sheet credit exposures should not be reported as part of the 
+ALLL on a bank’s balance sheet.  Because loans and 
+leases held for sale are carried on the balance sheet at the 
+lower of cost or fair value, no ALLL should be established 
+for such loans and leases. 
+ 
+The term "estimated credit l osses" means an estimate of 
+the current amount of the loan and lease portfolio (net of 
+unearned income) that is not likely to be collected; that is, 
+net chargeoffs that are likely to be realized for a loan, or 
+pool of loans.  The estimated credit losses should meet the 
+criteria for accrual of a loss contingency (i.e., a provision 
+to the ALLL) set forth in generally accepted accounting 
+principles (GAAP).  When available information confirms 
+specific loans and leases, or portions thereof, to be

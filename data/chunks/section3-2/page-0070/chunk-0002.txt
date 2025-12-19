@@ -1,0 +1,20 @@
+calculate a credit score, which helps institutions to rank 
+order risk for a given population.  Generally, an individual 
+with a higher score will perform better relative to an 
+individual with a lower credit score. 
+ 
+Few, if any, institutions have an automated underwriting 
+system where the credit score is used exclusively to make 
+the credit decision.  Some level of human review is usually 
+present to provide the flexibility needed to address 
+individual circumstances.  Institutions typically establish a 
+minimum cut-off score below which applicants are denied 
+and a second cutoff score above which applicants are 
+approved.  However, there is usually a range, or “gray 
+area,” in between the two cut -off scores where credits are 
+manually reviewed and credit decisions are judgmentally 
+determined. 
+ 
+Most, if not all, systems also provide for overrides of 
+established cut -off scores.  If the institution’s scoring 
+system effectively predicts loss rates and reflects

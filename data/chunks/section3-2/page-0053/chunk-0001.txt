@@ -1,0 +1,20 @@
+LOANS Section 3.2 
+RMS Manual of Examination Policies 3.2-53 Loans (8-16) 
+Federal Deposit Insurance Corporation 
+ 
+If the measure of a loan calculated in accordance with FAS 
+114 is less than the book value of that loan, impairment 
+should be recognized as a valuation allowance against the 
+loan.  For regulatory reporting and examination report 
+purposes, this valuation allowance is included as part of 
+the general allowance for loan and lease losses.  In 
+general, when the excess amount of the loan’s book value 
+is determined to be uncollectible, th is excess amount 
+should be promptly charged- off against the  ALLL.  When 
+a loan is collateral dependent, any portion of the loan 
+balance in excess of the fair value of the collateral (or fair 
+value less cost to sell) should similarly be charged-off. 
+ 
+Troubled Debt Restructuring - Troubled debt 
+restructuring takes placed when a bank grants a concession 
+to a debtor in financial difficulty.  The accounting

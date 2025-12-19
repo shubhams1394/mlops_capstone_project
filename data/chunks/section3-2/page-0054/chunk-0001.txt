@@ -1,0 +1,20 @@
+LOANS Section 3.2 
+Loans (8-16) 3.2-54 RMS Manual of Examination Policies 
+  Federal Deposit Insurance Corporation 
+cash sales price at the "economic value" or a higher 
+financed price repayable over time. 
+ 
+Modification of Terms -  When the terms of a TDR  
+provide for a reduction of interest  or principal, the 
+institution should measure any loss on the restructuring in 
+accordance with  the guidance for impaired loans as set 
+forth in FAS 114 unless the loans are measured at fair 
+value or the lower of cost or fair value. If the fair value of 
+the restructured loan is less than the book value of that 
+loan, FAS 114 requires impairment to be recognized as a 
+valuation allowance against the loan.  For regulatory 
+reporting and examination report purposes, this valuation 
+allowance should be included as part of  ALLL.  If the 
+excess amount of the loan’s book value is determined to be 
+uncollectible, this excess amount should be promptly 
+charged-off against the ALLL.

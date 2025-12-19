@@ -1,0 +1,20 @@
+LOANS Section 3.2 
+Loans (8-16) 3.2-70 RMS Manual of Examination Policies 
+  Federal Deposit Insurance Corporation 
+in the past.  This efficiency has enabled some banks to 
+expand their lending into national markets and originate 
+loan volumes once considered infeasible.  Scoring also 
+reduces unit -underwriting costs, while yielding a more 
+consistent loan portfolio that is easily securitized.  These 
+benefits have been the primary motivation for the 
+proliferation of credit scoring systems among both large 
+and small institutions. 
+ 
+Credit scoring systems identify specific characteristics that 
+help define predictive variables for acceptable 
+performance (delinquency, amount owed on accounts, 
+length of credit history, home ownership, occupation, 
+income, etc.) and assign point values relative to their 
+overall impor tance.  These values are then totaled to 
+calculate a credit score, which helps institutions to rank 
+order risk for a given population.  Generally, an individual

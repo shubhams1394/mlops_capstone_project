@@ -1,0 +1,5 @@
+observable market price, or the fair value of the collateral, 
+if the loan is collateral dependent.  A loan is collateral 
+dependent if repayment is expected to be provided solely 
+by the underlying col lateral and there are no other 
+available and reliable sources of repayment.

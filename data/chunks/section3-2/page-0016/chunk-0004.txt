@@ -1,0 +1,20 @@
+the sensitivity case should be sufficiently conservative and 
+used to determine whether the borrower has the financial 
+capacity to generate adequate cash flow to repay the debt 
+during a prolonged low commodity price environment.  
+Price deck considerations include, for example, current 
+commodity pricing, forward curve projections (future 
+price considerations), cost assumptions, discount rates, and 
+timing of the various reports.  Management should also 
+document any risk- based adjustments applied to each 
+proved reserve category.  While the risk -adjusted base 
+case projections will generally be used to underwrite 
+RBLs, management should consider the ability to repay 
+the debt using the risk- adjusted sensitivity case to 
+determine potential exposure due to adverse market price 
+fluctuations.    
+ 
+Loan Structure 
+ 
+RBL credit facilities are typically structured as a revolving 
+line of credit (RLOC), a reducing revolving line of credit

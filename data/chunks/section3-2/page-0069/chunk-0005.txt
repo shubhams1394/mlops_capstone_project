@@ -1,0 +1,19 @@
+Underwriter - A bank that guarantees the lending of the 
+funds to the borrower irrespective of successful 
+syndication or not. 
+ 
+Zeta score - There are models which predict bankruptcy 
+based on the analysis of certain financial ratios.  Edward 
+Altman of New York University developed a model in 
+1968 which is used by the r egulatory agencies called Zeta.  
+The Zeta score methodology is intended to forecast the 
+probability of a company entering bankruptcy within a 
+twelve month period.  It uses five financial ratios from 
+reported accounting information to produce an objective 
+measure of financial strength of a company.  The ratios 
+included in the measurement are:  working capital/total 
+assets; retained earnings/total assets; earnings before 
+interest and taxes/total assets; market value of common 
+and preferred  equity/total liabil ities (in non -public 
+organizations, the book value of common and preferred 
+equity should be substituted); and sales/total assets (for
